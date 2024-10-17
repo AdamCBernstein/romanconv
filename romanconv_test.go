@@ -1,8 +1,9 @@
 package romanconv
 
 import (
-	"github.com/AdamCBernstein/romanconv"
 	"testing"
+
+	"github.com/AdamCBernstein/romanconv"
 )
 
 type testResults struct {
